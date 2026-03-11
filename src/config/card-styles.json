@@ -16,8 +16,8 @@
 		"enabled": true
 	},
 	"clockCard": {
-		"width": 232,
-		"height": 132,
+		"width": 340,
+		"height": 137,
 		"offset": 92,
 		"order": 4,
 		"offsetX": null,
@@ -37,8 +37,8 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": 240,
+		"offsetY": 264,
 		"enabled": true
 	},
 	"socialButtons": {
@@ -47,7 +47,7 @@
 		"order": 6,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": true
+		"enabled": false
 	},
 	"shareCard": {
 		"width": 200,
@@ -55,19 +55,19 @@
 		"order": 7,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": true
+		"enabled": false
 	},
 	"articleCard": {
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -483,
+		"offsetY": 186,
 		"enabled": true
 	},
 	"writeButtons": {
-		"height": 42,
-		"width": 180,
+		"height": 54,
+		"width": 335,
 		"order": 8,
 		"offsetX": null,
 		"offsetY": null,
